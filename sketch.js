@@ -14,6 +14,7 @@ let backgroundMusic;
 let winSound;
 let playerWin = false;
 let facingRight = false;
+
 //new timer variables 
 let startTime;
 let timeElapsed = 0;
