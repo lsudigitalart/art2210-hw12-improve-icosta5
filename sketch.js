@@ -20,7 +20,7 @@ let startTime;
 let timeElapsed = 0;
 let timerRunning = false;
 
-  // loop entire song
+  // loop entire background song
 const loopStartSec = 0;
 const loopDuration = 70;
 
@@ -87,7 +87,7 @@ function draw() {
   push();
     fill(100);
     textSize(40);
-    text("Time Elapsed: " + Math.floor(timeElapsed / 1000), 40, 100.);
+    text("Seconds Elapsed: " + Math.floor(timeElapsed / 1000), 40, 100.);
     pop();
 
 //instructions
