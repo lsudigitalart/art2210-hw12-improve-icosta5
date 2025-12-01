@@ -5,4 +5,4 @@ improvements made:
 -full sound system 
 -game pieces aesthetically better/ replaced with images
 -mouse looks in the direction its moving (left/ right)
--elapsed timer
+-elapsed timer 
